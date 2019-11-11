@@ -1,2 +1,2 @@
 # Tp-Teoria
-Trabajo Practici Teoria de lq programacion
+Trabajo Practico Teoria de la programacion
