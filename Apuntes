@@ -1,0 +1,62 @@
+
+
+
+
+/*
+1) 
+console.log('Hola'+text);
+
+const newLocal = 'Hola' + text;
+console.log(newLocal);*/
+
+/*
+2) 
+class prueba {
+  static hola() {
+    throw new Error("Method not implemented.");
+  }
+  private(){};
+}
+
+prueba.hola();*/
+
+/*
+3) pasar a otro archivo
+class prueba{
+  static new(arg0: string) {
+    throw new Error("Method not implemented.");
+  }
+
+}
+
+let prueba = prueba.new('hola');
+*/
+
+/*4) Posicionar sobre rgb
+
+class Color {
+  rgb: string;
+}
+
+*/
+
+/*
+5) add semicolons
+
+
+
+declarar variables
+
+*/
+//6) Agregar constructor
+
+/*class Gamma {
+  private(){};
+}
+
+let gamma = new Gamma('hola', 1, new Date());*/
+
+/*
+alt + o
+muestra el js*/
+
